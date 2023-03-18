@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9FE81DAD-48BE-5245-68F0-F06A649813C7}|">
+  <MonoDevelop.Ide.ItemProperties.ARDK PreferredExecutionTarget="492f8247-7a1f-4dfd-863d-91a90c43add9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/measurement.cs">
+    <Files>
+      <File FileName="Assets/Script/measurement.cs" Line="248" Column="63" />
+      <File FileName="Assets/Script/switchScene.cs" />
+      <File FileName="Assets/Script/partOne.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR Spatial Learning" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="measurement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

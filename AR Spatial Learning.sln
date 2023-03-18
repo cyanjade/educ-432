@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDK", "ARDK.csproj", "{9FE81DAD-48BE-5245-68F0-F06A649813C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4FE620DF-92F6-6DD9-3850-0C9040C215A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDK-Examples", "ARDK-Examples.csproj", "{2553ED83-6859-D5B8-77D3-A21A6884119F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDK-Editor", "ARDK-Editor.csproj", "{FBC7EBAB-952C-0D32-57C8-60125C30B0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteAuthoring", "RemoteAuthoring.csproj", "{7D1E9190-8481-EE75-1D24-325C8892D88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE81DAD-48BE-5245-68F0-F06A649813C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE81DAD-48BE-5245-68F0-F06A649813C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE81DAD-48BE-5245-68F0-F06A649813C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE81DAD-48BE-5245-68F0-F06A649813C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE620DF-92F6-6DD9-3850-0C9040C215A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE620DF-92F6-6DD9-3850-0C9040C215A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE620DF-92F6-6DD9-3850-0C9040C215A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE620DF-92F6-6DD9-3850-0C9040C215A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2553ED83-6859-D5B8-77D3-A21A6884119F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2553ED83-6859-D5B8-77D3-A21A6884119F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2553ED83-6859-D5B8-77D3-A21A6884119F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2553ED83-6859-D5B8-77D3-A21A6884119F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC7EBAB-952C-0D32-57C8-60125C30B0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC7EBAB-952C-0D32-57C8-60125C30B0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC7EBAB-952C-0D32-57C8-60125C30B0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC7EBAB-952C-0D32-57C8-60125C30B0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1E9190-8481-EE75-1D24-325C8892D88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1E9190-8481-EE75-1D24-325C8892D88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1E9190-8481-EE75-1D24-325C8892D88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1E9190-8481-EE75-1D24-325C8892D88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
